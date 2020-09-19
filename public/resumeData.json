@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Jubril Muritala",
+    "occupation": "ReactJS Developer && IFullStack Web Developer",
+    "description": "Full Stack React Developer by Day, Freelancer by Night.",
+    "image": "jubril.jpg",
+    "bio": "My name is Jubril, I'm a Full Stack ReactJS Developer.",
+    "contactmessage": "Get in touch with me to receive further details, Look forward to working with you.",
+    "email": "jubrilmuritala@gmail.com",
+    "phone": "+234 9022018729",
+    "address": {
+      "street": "48 Unity Street Agbede Transformer",
+      "city": "Lagos",
+      "state": "Lagos",
+      "zip": "104212"
+    },
+    "website": "https://elegant-gates-de1d36.netlify.app/",
+    "resumedownload": "https://resume.io/r/kPv2Xr3MG",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jubril.jammal",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/heep_jay/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Heepjay",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "A Full stack Jvascript developer, i love creating webapps using the Mern Stack (Mongodb, Express, Reactjs, Nodejs), have good experience with working with serverless architecture using Firebase a very amazing tool built by google i've built plenty popular website clones using this stacks ",
+    "education": [
+      {
+        "school": "Lagos State Polytechnic",
+        "degree": "National Diploma in Computer Science",
+        "graduated": "August 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Djalal Corp",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to over 20 students."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS, React Context Api and Firebase",
+        "image": "amaz.png",
+        "url": "https://clone-45c45.web.app/"
+      },
+      {
+        "title": "Hulu Clone",
+        "category": "Hulu Clone built with ReactJS & TMDB API",
+        "image": "hulu.png",
+        "url": "https://hulu-clone-7293b.web.app/"
+      },
+
+      {
+        "title": "Youtube Clone",
+        "category": "Youtube Clone built with ReactJS",
+        "image": "yotube.png",
+        "url": "https://clone-b84f1.web.app/"
+      },
+      {
+        "title": "Twitter Clone",
+        "category": "Twitter Clone built with ReactJS and Firebase",
+        "image": "twitter.png",
+        "url": "https://twitter-clone-1c66f.web.app/"
+      },
+      {
+        "title": "Tinder Clone",
+        "category": "Tinder Clone built with ReactJS and Firebase",
+        "image": "tinder.png",
+        "url": "https://tinder-clone-b00b8.web.app/"
+      },
+      {
+        "title": "Tiktok Clone",
+        "category": "Tik-tok Clone built with ReactJS and Firebase",
+        "image": "tiktok.png",
+        "url": "https://tik-tok-clone-914e9.web.app/s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Always willing to work and improve himself, a wonderful team player.",
+        "user": "Akinwunmi Lawrence"
+      },
+      {
+        "text": "That Jubril Jammal must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Olushola Joshua"
+      }
+    ]
+  }
+}
